@@ -1,0 +1,14 @@
+# Root ignore
+node_modules/
+dist/
+.vscode/
+.idea/
+*.log
+.env
+**/.env
+**/.DS_Store
+**/Thumbs.db
+
+# Java builds
+**/target/
+**/build/
